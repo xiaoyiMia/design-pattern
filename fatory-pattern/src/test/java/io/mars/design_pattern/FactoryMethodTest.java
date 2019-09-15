@@ -1,8 +1,8 @@
 package io.mars.design_pattern;
 
-import io.mars.design_pattern.factory.factory_method.IFactory;
-import io.mars.design_pattern.factory.factory_method.TicketFactory;
-import io.mars.design_pattern.factory.factory_method.TicketWithSeatFactory;
+import io.mars.design_pattern.factories.factory_method.IFactory;
+import io.mars.design_pattern.factories.factory_method.TicketFactory;
+import io.mars.design_pattern.factories.factory_method.TicketWithSeatFactory;
 import io.mars.design_pattern.modules.Ticket;
 import org.junit.jupiter.api.Test;
 

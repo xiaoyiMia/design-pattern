@@ -1,4 +1,4 @@
-package io.mars.design_pattern.factory.abstract_factory;
+package io.mars.design_pattern.factories.abstract_factory;
 
 import io.mars.design_pattern.modules.Stage;
 import io.mars.design_pattern.modules.Ticket;

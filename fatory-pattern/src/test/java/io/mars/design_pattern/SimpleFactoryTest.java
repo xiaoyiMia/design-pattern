@@ -1,6 +1,6 @@
 package io.mars.design_pattern;
 
-import io.mars.design_pattern.factory.simple_factory.SimpleFactory;
+import io.mars.design_pattern.factories.simple_factory.SimpleFactory;
 import io.mars.design_pattern.modules.Ticket;
 import org.junit.jupiter.api.Test;
 

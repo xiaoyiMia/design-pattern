@@ -1,8 +1,8 @@
 package io.mars.design_pattern;
 
-import io.mars.design_pattern.factory.abstract_factory.IConcertFactory;
-import io.mars.design_pattern.factory.abstract_factory.IndoorConcertFactory;
-import io.mars.design_pattern.factory.abstract_factory.MusicFestivalFactory;
+import io.mars.design_pattern.factories.abstract_factory.IConcertFactory;
+import io.mars.design_pattern.factories.abstract_factory.IndoorConcertFactory;
+import io.mars.design_pattern.factories.abstract_factory.MusicFestivalFactory;
 import io.mars.design_pattern.modules.Stage;
 import io.mars.design_pattern.modules.Ticket;
 import org.junit.jupiter.api.Test;

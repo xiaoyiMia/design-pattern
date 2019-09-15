@@ -1,4 +1,4 @@
-package io.mars.design_pattern.factory.factory_method;
+package io.mars.design_pattern.factories.factory_method;
 
 import io.mars.design_pattern.modules.Ticket;
 import io.mars.design_pattern.modules.TicketWithSeat;
